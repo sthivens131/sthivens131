@@ -1,16 +1,14 @@
-        <!-- Este es un comentario en HTML -->
-<h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" /></a>
-</p>
 
+<h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Dibujante+Tradicional%2C+Tecnico%2C+Digital;Apasionado+con+la+tecnolog%C3%ADa+y+la+programaci%C3%B3n;3+A%C3%B1os+de+Carrera+Universitaria" alt="Typing SVG" /></a>
+</p>
 <br>
 
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture></picture> **Sobre Mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
