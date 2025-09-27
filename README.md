@@ -30,7 +30,7 @@
 	<lu>
 		<li>Actualmente estoy trabajando en mejorar mis habilidades de IA y python</li>
 		<li>Quiero especializarme en inteligencia de datos</li>
-		<li><a href="https://sthivens131.github.io/" target="_blank">Personal website</a></li>
+		<li><a href="https://sthivens131.github.io/" target="_blank">Pagina web</a> Personal</li>
 		<li>Actualmente estoy abierto para una nueva oportinidad laboral </li>
 	</lu>	
 </p>
@@ -166,7 +166,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sthivens131&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sthivens131" height="230px"/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
 </p>
 
 </details>
