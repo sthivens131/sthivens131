@@ -24,22 +24,20 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-<br>
 
 <p>
 	<lu>
-		<li>Actualmente estoy trabajando en mejorar mis habilidades de IA y python</li>
-		<li>Quiero especializarme en inteligencia de datos</li>
-		<li><a href="https://sthivens131.github.io/" target="_blank">Pagina web</a> Personal</li>
-		<li>Actualmente estoy abierto para una nueva oportinidad laboral </li>
+		<li>Actualmente estoy trabajando en mejorar mis habilidades de IA, Base de Datos y python.</li>
+		<li>Quiero especializarme en inteligencia de datos.</li>
+		<li><a href="https://sthivens131.github.io/" target="_blank">Pagina web</a> Personal.</li>
+		<li>Aprendiendo Ingles (A1).</li>
+		<li>Actualmente estoy abierto para una nueva oportinidad laboral.</li>
+		<li>Contactame por mis Redes Sociales.</li>
+		<li>Dato Curioso: Me estoy pasando hollow knight.</li>
 	</lu>	
 </p>
 
 <br>
-<br>
-
-
-
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
 
