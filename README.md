@@ -123,7 +123,7 @@
 </li>
 
 <li>
-<a href="https://www.youtube.com/@SthivensAranaga" target="_blank">
+<a href="https://www.youtube.com/channel/UCN8wcfG4c5mCokKyP80CoAg" target="_blank">
   <img src="https://img.shields.io/badge/YouTube: sthivens Aranaga-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;"/>
 </a>
 </li>
