@@ -6,31 +6,28 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sthivens131&label=Profile%20views&color=0047AB&style=plastic?" alt="sthivens131" height=25px, width=160px/> 
-	
-		<a href = "https://commits.top/venezuela.html" target="_blank">
-			<img src="https://aktive.tk/venezuela/sthivens131?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-		
-	<a href = "https://commits.top/venezuela.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sthivens131" target="_blank" height=25px, width=250px/> 
-	</a>
-
+    <img src="https://komarev.com/ghpvc/?username=sthivens131&label=Profile%20views&color=0047AB&style=plastic?" alt="sthivens131" height="25px" width="160px"/> 
+    <!---
+        <a href="https://commits.top/venezuela.html" target="_blank">
+            <img src="https://aktive.tk/venezuela/sthivens131?color=red" alt="Most Active Users" target="_blank" height="25px" width="250px"/> 
+        </a>
+    -->
+    <a href="https://commits.top/venezuela.html" target="_blank">
+        <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sthivens131" target="_blank" height="25px" width="250px"/> 
+    </a>
 </p>
 
 <br>
 
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi</h2>
 
-	<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-
-
-	- A passionate Self-taught Front-end developer
-	- Actualmente estoy trabajando en mejorar mis habilidades de IA y python
-	- Quiero especializarme en inteligencia de datos
-	- Personal website [link](https://sthivens131.github.io/)
-	- Actualmente estoy abierto para una nueva oportinidad laboral 
+- A passionate Self-taught Front-end developer
+- Actualmente estoy trabajando en mejorar mis habilidades de IA y python
+- Quiero especializarme en inteligencia de datos
+- Personal website [link](https://sthivens131.github.io/)
+- Actualmente estoy abierto para una nueva oportinidad laboral 
 
 </br>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
