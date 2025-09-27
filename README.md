@@ -1,16 +1,30 @@
 
 <h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Dibujante+Tradicional%2C+Tecnico%2C+Digital;Apasionado+con+la+tecnolog%C3%ADa+y+la+programaci%C3%B3n;3+A%C3%B1os+de+Carrera+Universitaria" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=500&lines=Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Aprendizaje+autodidacta+;3er+A%C3%B1o+de+Carrera+Universitaria;Apasionado+a+las+Tecnolog%C3%ADas+y+la+Programaci%C3%B3n+;Estudiante+universitario" alt="Typing SVG" /></a>
 </p>
 <br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=sthivens131&label=Profile%20views&color=0047AB&style=plastic?" alt="sthivens131" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/venezuela.html" target="_blank">
+			<img src="https://aktive.tk/venezuela/sthivens131?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href = "https://commits.top/venezuela.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sthivens131" target="_blank" height=25px, width=250px/> 
+	</a>
 
-
-
+</p>
 	
-## <picture></picture> **Sobre Mi**
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
