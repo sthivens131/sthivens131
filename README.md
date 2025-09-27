@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=550&height=70&lines=Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Aprendizaje+autodidacta+;3+A%C3%B1os+de+Carrera+Universitaria;Apacionado+a+las+Tecnolog%C3%ADas+y+la+Programaci%C3%B3n+;Estudiante+universitario" alt="Typing SVG" /></a>
