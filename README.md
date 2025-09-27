@@ -1,38 +1,38 @@
-
-<h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=500&lines=Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Aprendizaje+autodidacta+;3er+A%C3%B1o+de+Carrera+Universitaria;Apasionado+a+las+Tecnolog%C3%ADas+y+la+Programaci%C3%B3n+;Estudiante+universitario" alt="Typing SVG" /></a>
-</p>
 <br>
+	<h1 align="center"><b>Hi , Soy Sthivens Aranaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&center=true&random=true&width=500&lines=Me+encanta+aprender+cosas+nuevas...;Estudiante+Activo;Aprendizaje+autodidacta+;3er+A%C3%B1o+de+Carrera+Universitaria;Apasionado+a+las+Tecnolog%C3%ADas+y+la+Programaci%C3%B3n+;Estudiante+universitario" alt="Typing SVG" /></a>
+</p>
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=sthivens131&label=Profile%20views&color=0047AB&style=plastic?" alt="sthivens131" height=25px, width=160px/> 
-	<!---
+	
 		<a href = "https://commits.top/venezuela.html" target="_blank">
 			<img src="https://aktive.tk/venezuela/sthivens131?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
-	-->
+		
 	<a href = "https://commits.top/venezuela.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sthivens131" target="_blank" height=25px, width=250px/> 
 	</a>
 
 </p>
-	
- <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi</h2>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi</h2>
 
-<br><br>
+	<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
+
+	- A passionate Self-taught Front-end developer
+	- Actualmente estoy trabajando en mejorar mis habilidades de IA y python
+	- Quiero especializarme en inteligencia de datos
+	- Personal website [link](https://sthivens131.github.io/)
+	- Actualmente estoy abierto para una nueva oportinidad laboral 
+
+</br>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
 
 <p align="center">
@@ -95,7 +95,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </h2>
 <br>
 
 <div align="center">
@@ -105,18 +105,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
-</div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h2> <b> Contactame..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> </h2>
 <br>
 <div align='left'>
 
@@ -128,25 +118,38 @@
 </a>
 </li>
 
-<br>
-
-<li>
-<a href="https://www.linkedin.com/feed/" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Sthivens-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
 <li>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Sthivens-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<li>
+<a href="https://www.instagram.com/sthivens131/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram: sthivens131-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<a href="https://www.youtube.com/@SthivensAranaga" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube: sthivens Aranaga-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<li>
+<img src="https://img.shields.io/badge/Discord: Sthivens131-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;"/>
+</li>
+
+<li>
+<a href="https://www.tiktok.com/@sthivens131" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok: Sthivens131-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin-bottom: 5px;"/>
+</a>
+
+</li>
+<a href="https://www.facebook.com/profile.php?id=61581418193515" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook: Sthivens Aranaga-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;"/>
+</a>
+
 </ul>
 
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+Ultima edicion: 27/09/2025
